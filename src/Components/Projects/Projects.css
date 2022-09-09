@@ -1,0 +1,32 @@
+
+.Projects{
+    display: flex;
+    height: 70vh;
+    padding: 150px 80px;
+    background:white;
+}
+
+.P-text{
+    display: inline-flex;
+    position: absolute;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.P-text-hl{
+    color: #d83536;
+}
+
+.vertical-line{
+    position: relative;
+    width: 1px;
+    height: 135px;
+    background: #d83536;
+    left: 400px;
+}
+
+.VL-Text{
+    display: inline-flex;
+    font-size: 17px;
+    margin-left: 10px;
+}

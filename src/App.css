@@ -1,5 +1,11 @@
 .App {
-  text-align: center;
+  /* padding: 50px 80px; */
+  overflow: hidden;
+  scroll-behavior: smooth;
+  background-color: #ecf0f3;
+}
+.button{
+  border: none;
 }
 
 .App-logo {
